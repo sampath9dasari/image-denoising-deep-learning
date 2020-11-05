@@ -144,7 +144,7 @@ pathlib2==2.3.5
 pexpect==4.8.0
 phik==0.9.8
 pickleshare==0.7.5
-Pillow==7.0.0
+Pillow==7.1.0
 Pillow-SIMD==6.2.2.post1
 plotly==4.5.0
 pluggy==0.13.1
