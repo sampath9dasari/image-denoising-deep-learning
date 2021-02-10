@@ -22,7 +22,7 @@ colorama==0.4.3
 configparser==4.0.2
 confuse==1.0.0
 cookiecutter==1.7.0
-cryptography==3.2
+cryptography==3.3.2
 cycler==0.10.0
 daal==2019.0
 datalab==1.1.5
