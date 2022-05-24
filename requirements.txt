@@ -201,7 +201,7 @@ tbb==2019.0
 tbb4py==2019.0
 tenacity==6.0.0
 tensorboard==2.1.1
-tensorflow==2.4.0
+tensorflow==2.6.4
 tensorflow-datasets==1.3.0
 tensorflow-estimator==2.1.0
 tensorflow-gpu==2.4.0
